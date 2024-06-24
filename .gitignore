@@ -1,0 +1,11 @@
+dist/*
+node_modules
+.env
+google.json
+
+*_sessions
+*tokens
+.wwebjs*
+
+*.log
+*qr.png
